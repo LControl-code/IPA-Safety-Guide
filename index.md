@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # The Ultimate Guide to Not Getting Pwned: Verifying Modified IPAs 🔒
 
 Hey iOS fam! After seeing a lot of questions about IPA safety, I decided to put together this guide on how to verify modified apps properly. **Disclaimer**: This guide is for educational purposes only. Installing or using modified IPAs may violate Apple’s TOS or local laws. You’re responsible for understanding the legalities in your region and using this information responsibly.
